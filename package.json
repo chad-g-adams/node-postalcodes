@@ -1,0 +1,29 @@
+{
+  "name": "node-postalcodes",
+  "version": "0.1.0",
+  "description": "Node server for postal code lookup and search",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chad-g-adams/node-postalcodes.git"
+  },
+  "keywords": [
+    "postal",
+    "code"
+  ],
+  "author": "Chad Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chad-g-adams/node-postalcodes/issues"
+  },
+  "homepage": "https://github.com/chad-g-adams/node-postalcodes#readme",
+  "dependencies": {
+    "convict": "3.0.0",
+    "express": "4.15.3",
+    "geonames-postalcodes": "1.0.0"
+  }
+}
