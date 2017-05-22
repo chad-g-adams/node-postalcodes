@@ -47,4 +47,4 @@ http://localhost:10011/api/postalCodeSearch?postalCode=K2
 
 ## Place Name search
 
-`http://localhost:10011/api/placeNameSearch?placeName=stit`
+http://localhost:10011/api/placeNameSearch?placeName=stit
