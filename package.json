@@ -1,6 +1,6 @@
 {
   "name": "node-postalcodes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Node server for postal code lookup and search",
   "main": "app.js",
   "scripts": {
